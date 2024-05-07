@@ -18,5 +18,17 @@
 <hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
 <bounds x="87" y="47" width="160" height="105"/>
 </OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="1BB5ED4C-E94A-79EE-E950-254B53BFA1A9" otype="Entity" vid="CD2D3522-62D1-E742-9C5F-FA47DD576CCC">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="315" y="58" width="261" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="DF9BD754-2D84-C5E6-73D0-8440A868C43C" otype="Entity" vid="5E2A07E7-CD79-CE88-780C-668E84FD21B1">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="455" y="224" width="185" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="E517810F-C4ED-35A2-B35D-CF3AEFF9DAEB" otype="Entity" vid="C9C13473-1460-1BAC-90E5-284BC405FDE5">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="145" y="206" width="167" height="117"/>
+</OView>
 </objectViews>
 </Diagram>
